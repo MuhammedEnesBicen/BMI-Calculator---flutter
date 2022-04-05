@@ -10,9 +10,9 @@ Angela Yu( @angelabauer - instructor) developed this app in a tutorial she gave 
 
 We’re going to make a Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It will be a multi screen app with simple functionality but full-on custom styling. 
 
-![Input Screen](https://github.com/MuhammedEnesBicen/bmi_calculator/images/inputscreen.jpg)
-![Input Screen](https://github.com/MuhammedEnesBicen/bmi_calculator/images/resultscreen.jpg)
-![Finished App](https://github.com/MuhammedEnesBicen/bmi_calculator/images/screenrecord.gif)
+![Input Screen](https://github.com/MuhammedEnesBicen/BMI-Calculator---flutter/blob/master/images/inputscreen.jpg)
+![Input Screen](https://github.com/MuhammedEnesBicen/BMI-Calculator---flutter/blob/master/images/resultscreen.jpg)
+![Finished App](https://github.com/MuhammedEnesBicen/BMI-Calculator---flutter/blob/master/images/screenrecord.gif)
 
 
 ## What was used in the project
